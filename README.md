@@ -48,7 +48,7 @@ Built by a fellow student, for students.
 Scan the QR code below with your phone to download:
 
 <div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://shelad3.github.io/KNP-Management-System/" alt="Scan to download">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/shelad3/KNP-Management-System/releases/tag/v2.5.0" alt="Scan to download">
   <br>
   <sup>Point your camera at this QR code to open the download page</sup>
 </div>
