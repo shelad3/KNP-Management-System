@@ -3,7 +3,7 @@
   <p><em>A Digital Classroom Platform for Kabete National Polytechnique</em></p>
   <br>
   <p>
-    <img src="https://img.shields.io/badge/version-2.5.0-blue" alt="Version">
+    <img src="https://img.shields.io/badge/version-2.6.0-blue" alt="Version">
     <img src="https://img.shields.io/badge/platform-Android-brightgreen" alt="Platform">
     <img src="https://img.shields.io/badge/build-passing-success" alt="Build">
   </p>
@@ -38,7 +38,7 @@ Built by a fellow student, for students.
 ## Download
 
 <div align="center">
-  <a href="https://github.com/shelad3/KNP-Management-System/releases/latest/download/KNP-Management-System-v2.5.0.apk">
+  <a href="https://github.com/shelad3/KNP-Management-System/releases/latest/download/KNP-Management-System-v2.6.0.apk">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </div>
@@ -48,7 +48,7 @@ Built by a fellow student, for students.
 Scan the QR code below with your phone to download:
 
 <div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/shelad3/KNP-Management-System/releases/tag/v2.5.0" alt="Scan to download">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/shelad3/KNP-Management-System/releases/tag/v2.6.0" alt="Scan to download">
   <br>
   <sup>Point your camera at this QR code to open the download page</sup>
 </div>
@@ -87,7 +87,7 @@ Built by **Sheldon Ramu**, an Electrical Engineering student at Kabete National 
 ---
 
 <div align="center">
-  <p><strong>KNP Management System</strong> — v2.5.0</p>
+  <p><strong>KNP Management System</strong> — v2.6.0</p>
   <p>
     <a href="https://github.com/shelad3/KNP-Management-System">GitHub</a>
   </p>
