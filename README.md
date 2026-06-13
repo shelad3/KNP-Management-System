@@ -38,7 +38,7 @@ Built by a fellow student, for students.
 ## Download
 
 <div align="center">
-  <a href="https://github.com/shelad3/KNP-Management-System/releases/latest/download/KNP-Management-System-v2.6.0.apk">
+  <a href="https://github.com/shelad3/KNP-Management-System/releases/download/v2.6.0/KNP-Management-System-v2.6.0.apk">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </div>
