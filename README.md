@@ -38,7 +38,7 @@ Built by a fellow student, for students.
 ## Download
 
 <div align="center">
-  <a href="https://release-assets.githubusercontent.com/github-production-release-asset/1167356667/12dec8f0-6f77-425a-b583-b87c84cc405f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-17T18%3A35%3A43Z&rscd=attachment%3B+filename%3Dapp-release.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-17T17%3A35%3A25Z&ske=2026-09-17T18%3A35%3A43Z&sks=b&skv=2018-11-09&sig=hERQmP5esq5xwKwjB42BpwoPoqeCnLnq8B%2F2gd%2BmElA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4OTY2ODMyNSwibmJmIjoxNzg5NjY2NTI1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.rKY82zbRSS8Fudmi9xMLuHVPcPPKcUyDMnJUDt5RysA&response-content-disposition=attachment%3B%20filename%3Dapp-release.apk&response-content-type=application%2Fvnd.android.package-archive">
+  <a href="https://github.com/shelad3/KNP-Management-System/releases/download/V2.11.2/KNP-Management-System-v2.11.2.apk">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </div>
